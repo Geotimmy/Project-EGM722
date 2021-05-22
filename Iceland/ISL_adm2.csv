@@ -1,0 +1,120 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,104,"ISL","Iceland",1,"Austurland",1,"Austur-Hérað","Sveitarfélög ","Municipality",NA,NA
+2,104,"ISL","Iceland",1,"Austurland",2,"Búðahreppur","Sveitarfélög ","Municipality",NA,NA
+3,104,"ISL","Iceland",1,"Austurland",3,"Borgarfjarðarhreppur","Sveitarfélög ","Municipality",NA,NA
+4,104,"ISL","Iceland",1,"Austurland",4,"Breiðdalshreppur","Sveitarfélög ","Municipality",NA,NA
+5,104,"ISL","Iceland",1,"Austurland",5,"Djúpavogshreppur","Sveitarfélög ","Municipality",NA,NA
+6,104,"ISL","Iceland",1,"Austurland",6,"Fáskrúðsfjarðarhr.","Sveitarfélög ","Municipality",NA,NA
+7,104,"ISL","Iceland",1,"Austurland",7,"Fellahreppur","Sveitarfélög ","Municipality",NA,NA
+8,104,"ISL","Iceland",1,"Austurland",8,"Fjarðabyggð","Sveitarfélög ","Municipality",NA,NA
+9,104,"ISL","Iceland",1,"Austurland",9,"Fljótsdalshreppur","Sveitarfélög ","Municipality",NA,NA
+10,104,"ISL","Iceland",1,"Austurland",10,"Mjóafjarðarhreppur","Sveitarfélög ","Municipality",NA,NA
+11,104,"ISL","Iceland",1,"Austurland",11,"Norður-Hérað","Sveitarfélög ","Municipality",NA,NA
+12,104,"ISL","Iceland",1,"Austurland",12,"Seyðisfjörður","Sveitarfélög ","Municipality",NA,NA
+13,104,"ISL","Iceland",1,"Austurland",13,"Skeggjastaðahreppur","Sveitarfélög ","Municipality",NA,NA
+14,104,"ISL","Iceland",1,"Austurland",14,"Stöðvarhreppur","Sveitarfélög ","Municipality",NA,NA
+15,104,"ISL","Iceland",1,"Austurland",15,"Sveitarfélagið Hornafjörður","Sveitarfélög ","Municipality",NA,NA
+16,104,"ISL","Iceland",1,"Austurland",16,"Vopnafjarðarhreppur","Sveitarfélög ","Municipality",NA,NA
+17,104,"ISL","Iceland",2,"Hálshreppur",17,"Öxarfjarðarhreppur","Sveitarfélög ","Municipality",NA,NA
+18,104,"ISL","Iceland",2,"Hálshreppur",18,"Öxnadalshreppur","Sveitarfélög ","Municipality",NA,NA
+19,104,"ISL","Iceland",2,"Hálshreppur",19,"Ólafsfjörður","Sveitarfélög ","Municipality",NA,NA
+20,104,"ISL","Iceland",2,"Hálshreppur",20,"Aðaldælahreppur","Sveitarfélög ","Municipality",NA,NA
+21,104,"ISL","Iceland",2,"Hálshreppur",21,"Akureyri","Sveitarfélög ","Municipality",NA,NA
+22,104,"ISL","Iceland",2,"Hálshreppur",22,"Arnarneshreppur","Sveitarfélög ","Municipality",NA,NA
+23,104,"ISL","Iceland",2,"Hálshreppur",23,"Þórshafnarhreppur","Sveitarfélög ","Municipality",NA,NA
+24,104,"ISL","Iceland",2,"Hálshreppur",24,"Bárðdælahreppur","Sveitarfélög ","Municipality",NA,NA
+25,104,"ISL","Iceland",2,"Hálshreppur",25,"Dalvíkurbyggð","Sveitarfélög ","Municipality",NA,NA
+26,104,"ISL","Iceland",2,"Hálshreppur",26,"Eyjafjarðarsveit","Sveitarfélög ","Municipality",NA,NA
+27,104,"ISL","Iceland",2,"Hálshreppur",27,"Glæsibæjarhreppur","Sveitarfélög ","Municipality",NA,NA
+28,104,"ISL","Iceland",2,"Hálshreppur",28,"Grýtubakkahreppur","Sveitarfélög ","Municipality",NA,NA
+29,104,"ISL","Iceland",2,"Hálshreppur",29,"Grímseyjarhreppur","Sveitarfélög ","Municipality",NA,NA
+30,104,"ISL","Iceland",2,"Hálshreppur",30,"Hálshreppur","Sveitarfélög ","Municipality",NA,NA
+31,104,"ISL","Iceland",2,"Hálshreppur",31,"Húsavík","Sveitarfélög ","Municipality",NA,NA
+32,104,"ISL","Iceland",2,"Hálshreppur",32,"Hríseyjarhreppur","Sveitarfélög ","Municipality",NA,NA
+33,104,"ISL","Iceland",2,"Hálshreppur",33,"Kelduneshreppur","Sveitarfélög ","Municipality",NA,NA
+34,104,"ISL","Iceland",2,"Hálshreppur",34,"Ljósavatnshreppur","Sveitarfélög ","Municipality",NA,NA
+35,104,"ISL","Iceland",2,"Hálshreppur",35,"Reykdælahreppur","Sveitarfélög ","Municipality",NA,NA
+36,104,"ISL","Iceland",2,"Hálshreppur",36,"Reykjahreppur","Sveitarfélög ","Municipality",NA,NA
+37,104,"ISL","Iceland",2,"Hálshreppur",37,"Siglufjörður","Sveitarfélög ","Municipality",NA,NA
+38,104,"ISL","Iceland",2,"Hálshreppur",38,"Skútustaðahreppur","Sveitarfélög ","Municipality",NA,NA
+39,104,"ISL","Iceland",2,"Hálshreppur",39,"Skriðuhreppur","Sveitarfélög ","Municipality",NA,NA
+40,104,"ISL","Iceland",2,"Hálshreppur",40,"Svalbarðshreppur","Sveitarfélög ","Municipality",NA,NA
+41,104,"ISL","Iceland",2,"Hálshreppur",41,"Tjörneshreppur","Sveitarfélög ","Municipality",NA,NA
+42,104,"ISL","Iceland",3,"Höfuðborgarsvæði",42,"Bessastaðahreppur","Sveitarfélög ","Municipality",NA,NA
+43,104,"ISL","Iceland",3,"Höfuðborgarsvæði",43,"Garðabær","Sveitarfélög ","Municipality",NA,NA
+44,104,"ISL","Iceland",3,"Höfuðborgarsvæði",44,"Hafnarfjörður","Sveitarfélög ","Municipality",NA,NA
+45,104,"ISL","Iceland",3,"Höfuðborgarsvæði",45,"Kópavogur","Sveitarfélög ","Municipality",NA,NA
+46,104,"ISL","Iceland",3,"Höfuðborgarsvæði",46,"Kjósarhreppur","Sveitarfélög ","Municipality",NA,NA
+47,104,"ISL","Iceland",3,"Höfuðborgarsvæði",47,"Mosfellsbær","Sveitarfélög ","Municipality",NA,NA
+48,104,"ISL","Iceland",3,"Höfuðborgarsvæði",48,"Reykjavík","Sveitarfélög ","Municipality",NA,NA
+49,104,"ISL","Iceland",4,"Norðurland vestra",49,"Áshreppur","Sveitarfélög ","Municipality",NA,NA
+50,104,"ISL","Iceland",4,"Norðurland vestra",50,"Akrahreppur","Sveitarfélög ","Municipality",NA,NA
+51,104,"ISL","Iceland",4,"Norðurland vestra",51,"Bólstaðarhlíðarhreppur","Sveitarfélög ","Municipality",NA,NA
+52,104,"ISL","Iceland",4,"Norðurland vestra",52,"Blönduós","Sveitarfélög ","Municipality",NA,NA
+53,104,"ISL","Iceland",4,"Norðurland vestra",53,"Engihlíðarhreppur","Sveitarfélög ","Municipality",NA,NA
+54,104,"ISL","Iceland",4,"Norðurland vestra",54,"Höfðahreppur","Sveitarfélög ","Municipality",NA,NA
+55,104,"ISL","Iceland",4,"Norðurland vestra",55,"Húnaþing vestra","Sveitarfélög ","Municipality",NA,NA
+56,104,"ISL","Iceland",4,"Norðurland vestra",56,"Skagahreppur","Sveitarfélög ","Municipality",NA,NA
+57,104,"ISL","Iceland",4,"Norðurland vestra",57,"Svínavatnshreppur","Sveitarfélög ","Municipality",NA,NA
+58,104,"ISL","Iceland",4,"Norðurland vestra",58,"Sveinsstaðahreppur","Sveitarfélög ","Municipality",NA,NA
+59,104,"ISL","Iceland",4,"Norðurland vestra",59,"Sveitarfélagið Skagafjörður","Sveitarfélög ","Municipality",NA,NA
+60,104,"ISL","Iceland",4,"Norðurland vestra",60,"Torfalækjarhreppur","Sveitarfélög ","Municipality",NA,NA
+61,104,"ISL","Iceland",4,"Norðurland vestra",61,"Vindhælishreppur","Sveitarfélög ","Municipality",NA,NA
+62,104,"ISL","Iceland",5,"Suðurland",62,"Ölfushreppur","Sveitarfélög ","Municipality",NA,NA
+63,104,"ISL","Iceland",5,"Suðurland",63,"Ásahreppur","Sveitarfélög ","Municipality",NA,NA
+64,104,"ISL","Iceland",5,"Suðurland",64,"Austur-Eyjafjallahreppur","Sveitarfélög ","Municipality",NA,NA
+65,104,"ISL","Iceland",5,"Suðurland",65,"Austur-Landeyjahreppur","Sveitarfélög ","Municipality",NA,NA
+66,104,"ISL","Iceland",5,"Suðurland",66,"Þingvallahreppur","Sveitarfélög ","Municipality",NA,NA
+67,104,"ISL","Iceland",5,"Suðurland",67,"Biskupstungnahreppur","Sveitarfélög ","Municipality",NA,NA
+68,104,"ISL","Iceland",5,"Suðurland",68,"Djúpárhreppur","Sveitarfélög ","Municipality",NA,NA
+69,104,"ISL","Iceland",5,"Suðurland",69,"Fljótshlíðarhreppur","Sveitarfélög ","Municipality",NA,NA
+70,104,"ISL","Iceland",5,"Suðurland",70,"Gaulverjabæjarhreppur","Sveitarfélög ","Municipality",NA,NA
+71,104,"ISL","Iceland",5,"Suðurland",71,"Gnúpverjahreppur","Sveitarfélög ","Municipality",NA,NA
+72,104,"ISL","Iceland",5,"Suðurland",72,"Grímsnes- og Grafningshreppur","Sveitarfélög ","Municipality",NA,NA
+73,104,"ISL","Iceland",5,"Suðurland",73,"Holta- og Landasveit","Sveitarfélög ","Municipality",NA,NA
+74,104,"ISL","Iceland",5,"Suðurland",74,"Hraungerðishreppur","Sveitarfélög ","Municipality",NA,NA
+75,104,"ISL","Iceland",5,"Suðurland",75,"Hrunamannahreppur","Sveitarfélög ","Municipality",NA,NA
+76,104,"ISL","Iceland",5,"Suðurland",76,"Hveragerði","Sveitarfélög ","Municipality",NA,NA
+77,104,"ISL","Iceland",5,"Suðurland",77,"Hvolhreppur","Sveitarfélög ","Municipality",NA,NA
+78,104,"ISL","Iceland",5,"Suðurland",78,"Laugardalshreppur","Sveitarfélög ","Municipality",NA,NA
+79,104,"ISL","Iceland",5,"Suðurland",79,"Mýrdalshreppur","Sveitarfélög ","Municipality",NA,NA
+80,104,"ISL","Iceland",5,"Suðurland",80,"Rangárvallahreppur","Sveitarfélög ","Municipality",NA,NA
+81,104,"ISL","Iceland",5,"Suðurland",81,"Skaftárhreppur","Sveitarfélög ","Municipality",NA,NA
+82,104,"ISL","Iceland",5,"Suðurland",82,"Skeiðahreppur","Sveitarfélög ","Municipality",NA,NA
+83,104,"ISL","Iceland",5,"Suðurland",83,"Sveitarfélagið Árborg","Sveitarfélög ","Municipality",NA,NA
+84,104,"ISL","Iceland",5,"Suðurland",84,"Uten navn - sysla","Sveitarfélög ","Municipality",NA,NA
+85,104,"ISL","Iceland",5,"Suðurland",85,"Vestmannaeyjar","Sveitarfélög ","Municipality",NA,NA
+86,104,"ISL","Iceland",5,"Suðurland",86,"Vestur-Eyjafjallahreppur","Sveitarfélög ","Municipality",NA,NA
+87,104,"ISL","Iceland",5,"Suðurland",87,"Vestur-Landeyjahreppur","Sveitarfélög ","Municipality",NA,NA
+88,104,"ISL","Iceland",5,"Suðurland",88,"Villingaholtshreppur","Sveitarfélög ","Municipality",NA,NA
+89,104,"ISL","Iceland",6,"Suðurnes",89,"Grindavík","Sveitarfélög ","Municipality",NA,NA
+90,104,"ISL","Iceland",6,"Suðurnes",90,"Reykjanesbær","Sveitarfélög ","Municipality",NA,NA
+91,104,"ISL","Iceland",6,"Suðurnes",91,"Sandgerði","Sveitarfélög ","Municipality",NA,NA
+92,104,"ISL","Iceland",6,"Suðurnes",92,"Vatnsleysustrandarhreppur","Sveitarfélög ","Municipality",NA,NA
+93,104,"ISL","Iceland",7,"Vestfirðir",93,"Árneshreppur","Sveitarfélög ","Municipality",NA,NA
+94,104,"ISL","Iceland",7,"Vestfirðir",94,"Ísafjarðarbær","Sveitarfélög ","Municipality",NA,NA
+95,104,"ISL","Iceland",7,"Vestfirðir",95,"Bæjarhreppur","Sveitarfélög ","Municipality",NA,NA
+96,104,"ISL","Iceland",7,"Vestfirðir",96,"Bolungarvík","Sveitarfélög ","Municipality",NA,NA
+97,104,"ISL","Iceland",7,"Vestfirðir",97,"Broddaneshreppur","Sveitarfélög ","Municipality",NA,NA
+98,104,"ISL","Iceland",7,"Vestfirðir",98,"Hólmavíkurhreppur","Sveitarfélög ","Municipality",NA,NA
+99,104,"ISL","Iceland",7,"Vestfirðir",99,"Kaldrananeshreppur","Sveitarfélög ","Municipality",NA,NA
+100,104,"ISL","Iceland",7,"Vestfirðir",100,"Kirkjubólshreppur","Sveitarfélög ","Municipality",NA,NA
+101,104,"ISL","Iceland",7,"Vestfirðir",101,"Reykhólahreppur","Sveitarfélög ","Municipality",NA,NA
+102,104,"ISL","Iceland",7,"Vestfirðir",102,"Súðavíkurhreppur","Sveitarfélög ","Municipality",NA,NA
+103,104,"ISL","Iceland",7,"Vestfirðir",103,"Vesturbyggð","Sveitarfélög ","Municipality",NA,NA
+104,104,"ISL","Iceland",8,"Vesturland",104,"Akranes","Sveitarfélög ","Municipality",NA,NA
+105,104,"ISL","Iceland",8,"Vesturland",105,"Borgarbyggð","Sveitarfélög ","Municipality",NA,NA
+106,104,"ISL","Iceland",8,"Vesturland",106,"Borgarfjarðarsveit","Sveitarfélög ","Municipality",NA,NA
+107,104,"ISL","Iceland",8,"Vesturland",107,"Dalabyggð","Sveitarfélög ","Municipality",NA,NA
+108,104,"ISL","Iceland",8,"Vesturland",108,"Eyja- og Miklaholtshreppur","Sveitarfélög ","Municipality",NA,NA
+109,104,"ISL","Iceland",8,"Vesturland",109,"Eyrarsveit","Sveitarfélög ","Municipality",NA,NA
+110,104,"ISL","Iceland",8,"Vesturland",110,"Helgafellssveit","Sveitarfélög ","Municipality",NA,NA
+111,104,"ISL","Iceland",8,"Vesturland",111,"Hvalfjarðarstrandarhreppur","Sveitarfélög ","Municipality",NA,NA
+112,104,"ISL","Iceland",8,"Vesturland",112,"Hvítársíðuhreppur","Sveitarfélög ","Municipality",NA,NA
+113,104,"ISL","Iceland",8,"Vesturland",113,"Innri-Akraneshreppur","Sveitarfélög ","Municipality",NA,NA
+114,104,"ISL","Iceland",8,"Vesturland",114,"Kolbeinsstaðahreppur","Sveitarfélög ","Municipality",NA,NA
+115,104,"ISL","Iceland",8,"Vesturland",115,"Leirár- og Melahreppur","Sveitarfélög ","Municipality",NA,NA
+116,104,"ISL","Iceland",8,"Vesturland",116,"Saurbæjarhreppur","Sveitarfélög ","Municipality",NA,NA
+117,104,"ISL","Iceland",8,"Vesturland",117,"Skilmannahreppur","Sveitarfélög ","Municipality",NA,NA
+118,104,"ISL","Iceland",8,"Vesturland",118,"Skorradalshreppur","Sveitarfélög ","Municipality",NA,NA
+119,104,"ISL","Iceland",8,"Vesturland",119,"Snæfellsbær","Sveitarfélög ","Municipality",NA,NA
